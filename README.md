@@ -1,4 +1,4 @@
-# Robotics-Naigation-Deep-Reinforcement-Learning
+# Robotics-Navigation-Deep-Reinforcement-Learning
 
 ## Instructions
 
